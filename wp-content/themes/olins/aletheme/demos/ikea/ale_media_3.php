@@ -1,0 +1,9 @@
+<?php
+//Agents
+/*ale_demo_media::add_image_to_media_gallery('ale_ser1',"http://aletheme.com/demo/taxipress/ser1.jpg");
+ale_demo_media::add_image_to_media_gallery('ale_ser2',"http://aletheme.com/demo/taxipress/ser2.jpg");
+ale_demo_media::add_image_to_media_gallery('ale_ser3',"http://aletheme.com/demo/taxipress/ser3.jpg");
+ale_demo_media::add_image_to_media_gallery('ale_ser4',"http://aletheme.com/demo/taxipress/ser4.jpg");
+ale_demo_media::add_image_to_media_gallery('ale_car1',"http://aletheme.com/demo/taxipress/car1.jpg");
+ale_demo_media::add_image_to_media_gallery('ale_car2',"http://aletheme.com/demo/taxipress/car2.jpg");
+ale_demo_media::add_image_to_media_gallery('ale_car3',"http://aletheme.com/demo/taxipress/car3.jpg");*/
